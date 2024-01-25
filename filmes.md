@@ -5,8 +5,8 @@
 - [ ] Pink Flamingos (1972)
 - [ ] Mean Streets (1973)
 - [ ] The Warriors (1979)
-- [ ] Christiane F. - Wir Kinder vom Bahnhof Zoo (1981)
-- [ ] Repo Man (1984)
+- [x] Christiane F. - Wir Kinder vom Bahnhof Zoo (1981)
+- [x] Repo Man (1984)
 - [ ] Streets of Fire (1984)
 - [ ] After Hours (1985)
 - [ ] Der Himmel Über Berlin (1987)
@@ -38,3 +38,14 @@
 - [ ] England Is Mine (2017)
 - [ ] The Banshees Of Inshuren (2022)
 - [ ] Los delincuentes (2023)
+- [x] Trainspotting
+- [x] T2
+- [x] The Golden Glove
+- [x] Barbarella
+- [x] The Rocky Horror Picture Show
+- [ ] Two Lane Black Top
+- [ ] Crazy Lray Dirty Mary
+- [ ] Christine O carro assassino
+- [ ] Up In the smoke
+- [ ] Waynes World
+- [ ] Beyond The Law
