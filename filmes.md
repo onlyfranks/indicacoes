@@ -52,3 +52,6 @@
 - [ ] Detroid Rock City
 - [ ] Abraços Partidos
 - [ ] Má Educação
+- [ ] Cherry
+- [ ] Broke back montain
+
