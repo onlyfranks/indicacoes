@@ -50,3 +50,5 @@
 - [ ] Waynes World
 - [ ] Beyond The Law
 - [ ] Detroid Rock City
+- [ ] Abraços Partidos
+- [ ] Má Educação
