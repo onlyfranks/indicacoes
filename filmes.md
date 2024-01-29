@@ -49,3 +49,4 @@
 - [ ] Up In the smoke
 - [ ] Waynes World
 - [ ] Beyond The Law
+- [ ] Detroid Rock City
