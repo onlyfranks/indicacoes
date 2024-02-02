@@ -2,10 +2,16 @@
 
 - [ ] Rebel Without a Cause (1955)
 - [ ] À Meia-Noite Levarei Sua Alma (1964)
+- [ ] Barbarella (1968)
+- [ ] Two-Lane Blacktop (1971)
 - [ ] Pink Flamingos (1972)
 - [ ] Mean Streets (1973)
+- [ ] Dirty Mary Crazy Larry (1974)
+- [x] The Rocky Horror Picture Show (1975)
+- [ ] Up in smoke (1978)
 - [ ] The Warriors (1979)
 - [x] Christiane F. - Wir Kinder vom Bahnhof Zoo (1981)
+- [ ] Christine (1983)
 - [x] Repo Man (1984)
 - [ ] Streets of Fire (1984)
 - [ ] After Hours (1985)
@@ -16,42 +22,35 @@
 - [ ] Drugstore Cowboy (1989)
 - [ ] Boyz n the Hood (1991)
 - [ ] My Own Private Idaho (1991)
+- [ ] Wayne's World (1992)
 - [ ] Dazed and Confused (1993)
 - [ ] The Basketball Diaries (1995)
+- [x] Trainspotting (1996)
 - [ ] Gummo (1997)
 - [ ] The Butcher Boy (1997)
 - [ ] Dark City (1998)
 - [ ] Velvet Goldmine (1998)
 - [ ] Fear and Loathing in Las Vegas (1998)
+- [ ] Detroid Rock City (1999)
 - [ ] Todo sobre mi madre (1999)
 - [ ] High Fidelity (2000)
 - [ ] The Beach (2000)
 - [ ] The Others (2001)
 - [ ] Sonny (2002)
 - [ ] Spun (2002)
+- [ ] La Mala Educación (2004)
 - [ ] Mysterious Skin (2004)
+- [ ] Brokeback Montain (2005)
 - [ ] Candy (2006)
+- [ ] Abraços Partidos (2009)
 - [ ] Hesher (2010)
 - [ ] La Piel que Habito (2011)
 - [ ] Sing Street (2016)
 - [ ] Call Me by Your Name (2017)
 - [ ] England Is Mine (2017)
+- [x] T2 Trainspotting (2017)
+- [ ] Beyond the Law (2019)
+- [x] Der Goldene Handschuh (2019)
+- [ ] Cherry (2021)
 - [ ] The Banshees Of Inshuren (2022)
 - [ ] Los delincuentes (2023)
-- [x] Trainspotting
-- [x] T2
-- [x] The Golden Glove
-- [x] Barbarella
-- [x] The Rocky Horror Picture Show
-- [ ] Two Lane Black Top
-- [ ] Crazy Lray Dirty Mary
-- [ ] Christine O carro assassino
-- [ ] Up In the smoke
-- [ ] Waynes World
-- [ ] Beyond The Law
-- [ ] Detroid Rock City
-- [ ] Abraços Partidos
-- [ ] Má Educação
-- [ ] Cherry
-- [ ] Broke back montain
-

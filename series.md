@@ -1,4 +1,4 @@
 # Séries
 
-- [ ] It's a Sina
-- [ ] The Deuce
+- [ ] The Deuce (2017)
+- [ ] It's a Sin (2021)
