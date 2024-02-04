@@ -9,7 +9,7 @@
 - [ ] Dirty Mary Crazy Larry (1974)
 - [x] The Rocky Horror Picture Show (1975)
 - [ ] Up in smoke (1978)
-- [ ] The Warriors (1979)
+- [x] The Warriors (1979)
 - [x] Christiane F. - Wir Kinder vom Bahnhof Zoo (1981)
 - [ ] Christine (1983)
 - [x] Repo Man (1984)
