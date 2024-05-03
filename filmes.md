@@ -14,7 +14,7 @@
 - [ ] Christine (1983)
 - [x] Repo Man (1984)
 - [ ] Streets of Fire (1984)
-- [ ] After Hours (1985)
+- [x] After Hours (1985)
 - [ ] Der Himmel Über Berlin (1987)
 - [ ] The Lost Boys (1987)
 - [x] Mujeres al borde de un ataque de nervios (1988)
@@ -54,3 +54,5 @@
 - [ ] Cherry (2021)
 - [ ] The Banshees Of Inshuren (2022)
 - [ ] Los delincuentes (2023)
+- [ ] Southburn
+- [ ] te pego la fora
